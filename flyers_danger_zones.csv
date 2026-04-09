@@ -1,0 +1,13 @@
+name,zone,zone_order,sv_pct,shots,goals,sv_pct_display
+Dan Vladar,Low Danger,1,0.9673,1439.0,47.0,96.7%
+Dan Vladar,Medium Danger,2,0.875,288.0,36.0,87.5%
+Dan Vladar,High Danger,3,0.7872,141.0,30.0,78.7%
+Samuel Ersson,Low Danger,1,0.9472,852.0,45.0,94.7%
+Samuel Ersson,Medium Danger,2,0.8554,242.0,35.0,85.5%
+Samuel Ersson,High Danger,3,0.803,66.0,13.0,80.3%
+Aleksei Kolosov,Low Danger,1,0.9434,53.0,3.0,94.3%
+Aleksei Kolosov,Medium Danger,2,0.6,10.0,4.0,60.0%
+Aleksei Kolosov,High Danger,3,0.75,4.0,1.0,75.0%
+League Average,Low Danger,1,0.9637,74708.0,2709.0,96.4%
+League Average,Medium Danger,2,0.8718,19551.0,2506.0,87.2%
+League Average,High Danger,3,0.7689,7278.0,1682.0,76.9%

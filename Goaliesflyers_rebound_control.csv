@@ -1,0 +1,10 @@
+name,metric,value,metric_order
+Dan Vladar,Actual Rebounds,134.0,1
+Dan Vladar,Expected Rebounds,91.6,2
+Dan Vladar,Delta (Actual - Expected),42.4,3
+Samuel Ersson,Actual Rebounds,87.0,1
+Samuel Ersson,Expected Rebounds,59.0,2
+Samuel Ersson,Delta (Actual - Expected),28.0,3
+Aleksei Kolosov,Actual Rebounds,3.0,1
+Aleksei Kolosov,Expected Rebounds,3.5,2
+Aleksei Kolosov,Delta (Actual - Expected),-0.5,3
